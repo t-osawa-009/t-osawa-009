@@ -1,4 +1,5 @@
-### Hi there 👋
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=t-osawa-009&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=t-osawa-009&count_private=true&theme=tokyonight&layout=compact)
 
 <!--
 **t-osawa-009/t-osawa-009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
